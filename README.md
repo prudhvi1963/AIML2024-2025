@@ -4,7 +4,9 @@
 #LAB4 (https://github.com/prudhvi1963/AIML2024-2025/blob/main/LAB_AIML_4.ipynb)   
 #LAB5 (https://github.com/prudhvi1963/AIML2024-2025/blob/main/Lab05-AIML.ipynb.txt)    
 #LAB6 (https://github.com/prudhvi1963/AIML2024-2025/blob/main/Lab06-AIML.ipynb)   
-#LAB7 (https://github.com/prudhvi1963/AIML2024-2025/blob/main/Lab07-SVM.ipynb)   
+#LAB7 (https://github.com/prudhvi1963/AIML2024-2025/blob/main/Lab07-SVM.ipynb)   8 
+#LAB8 (https://github.com/prudhvi1963/AIML2024-2025/blob/main/Lab-08.ipynb)
+
 
 
 
